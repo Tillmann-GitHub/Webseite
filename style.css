@@ -5,7 +5,7 @@
             color: black;
         }
         h1 { 
-           background-color:lightblue;
+           background-color:lightskyblue;
            color: black;
         }
         p {
@@ -18,7 +18,7 @@
         }
         h2 {
             color: black;
-            background-color: lightblue;
+            background-color: lightskyblue;
         }
         ol{
             color: black;
@@ -48,7 +48,7 @@
              <!doctype html>
              <html lang="de">
                <head>
-                 < rel= "stylesheet" href="style.css">
+                 < link rel= "stylesheet" href="style.css">
                  ...
 
 
