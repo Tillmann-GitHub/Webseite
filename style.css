@@ -17,7 +17,8 @@
             text-align: right;
         }
         h2 {
-            color: lightblue;
+            color: black;
+            background-color: lightblue;
         }
         ol{
             color: black;
@@ -44,7 +45,11 @@
              <link rel="style" href="style.css">
  
  
-<a rel= 1-Tag href=style.css>
+             <!doctype html>
+             <html lang="de">
+               <head>
+                 < rel= "stylesheet" href="style.css">
+                 ...
 
 
 
